@@ -9,10 +9,3 @@ exports.seed = function(knex, Promise) {
       ]);
     });
 };
-
-// tbl.string('vin').unique().notNullable();
-// tbl.text('make').notNullable();
-// tbl.text('model').notNullable();
-// tbl.integer('mileage').notNullable();
-// tbl.text('transmissionType');
-// tbl.text('title');
